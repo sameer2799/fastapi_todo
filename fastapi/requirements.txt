@@ -1,0 +1,6 @@
+uwsgi
+fastapi
+uvicorn
+Jinja2
+python-multipart
+requests
